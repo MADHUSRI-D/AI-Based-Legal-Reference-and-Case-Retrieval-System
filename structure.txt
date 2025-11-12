@@ -1,0 +1,789 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 2428-B669
+C:.
++---data
+|   +---processed
+|   |   +---chunks
+|   |   |   +---CrPC_1973
+|   |   |   +---EvidenceAct_1872
+|   |   |   +---IndicLegalQA
+|   |   |   \---IPC_1860
+|   |   \---cleaned
+|   \---raw
++---scripts
+\---venv
+    +---Include
+    |   \---site
+    |       \---python3.13
+    |           \---greenlet
+    +---Lib
+    |   \---site-packages
+    |       +---annotated_types
+    |       |   \---__pycache__
+    |       +---annotated_types-0.7.0.dist-info
+    |       |   \---licenses
+    |       +---anyio
+    |       |   +---abc
+    |       |   |   \---__pycache__
+    |       |   +---streams
+    |       |   |   \---__pycache__
+    |       |   +---_backends
+    |       |   |   \---__pycache__
+    |       |   +---_core
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---anyio-4.11.0.dist-info
+    |       |   \---licenses
+    |       +---certifi
+    |       |   \---__pycache__
+    |       +---certifi-2025.8.3.dist-info
+    |       |   \---licenses
+    |       +---charset_normalizer
+    |       |   +---cli
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---charset_normalizer-3.4.3.dist-info
+    |       |   \---licenses
+    |       +---greenlet
+    |       |   +---platform
+    |       |   |   \---__pycache__
+    |       |   +---tests
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---greenlet-3.2.4.dist-info
+    |       |   \---licenses
+    |       +---h11
+    |       |   \---__pycache__
+    |       +---h11-0.16.0.dist-info
+    |       |   \---licenses
+    |       +---httpcore
+    |       |   +---_async
+    |       |   |   \---__pycache__
+    |       |   +---_backends
+    |       |   |   \---__pycache__
+    |       |   +---_sync
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---httpcore-1.0.9.dist-info
+    |       |   \---licenses
+    |       +---httpx
+    |       |   +---_transports
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---httpx-0.28.1.dist-info
+    |       |   \---licenses
+    |       +---idna
+    |       |   \---__pycache__
+    |       +---idna-3.10.dist-info
+    |       +---jsonpatch-1.33.dist-info
+    |       +---jsonpointer-3.0.0.dist-info
+    |       +---langchain
+    |       |   +---adapters
+    |       |   |   \---__pycache__
+    |       |   +---agents
+    |       |   |   +---agent_toolkits
+    |       |   |   |   +---ainetwork
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---amadeus
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---clickup
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---conversational_retrieval
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---csv
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---file_management
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---github
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---gitlab
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---gmail
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---jira
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---json
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---multion
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---nasa
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---nla
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---office365
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---openapi
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---pandas
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---playwright
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---powerbi
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---python
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---slack
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---spark
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---spark_sql
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---sql
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---steam
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---vectorstore
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---xorbits
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---zapier
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---chat
+    |       |   |   |   \---__pycache__
+    |       |   |   +---conversational
+    |       |   |   |   \---__pycache__
+    |       |   |   +---conversational_chat
+    |       |   |   |   \---__pycache__
+    |       |   |   +---format_scratchpad
+    |       |   |   |   \---__pycache__
+    |       |   |   +---json_chat
+    |       |   |   |   \---__pycache__
+    |       |   |   +---mrkl
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openai_assistant
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openai_functions_agent
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openai_functions_multi_agent
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openai_tools
+    |       |   |   |   \---__pycache__
+    |       |   |   +---output_parsers
+    |       |   |   |   \---__pycache__
+    |       |   |   +---react
+    |       |   |   |   \---__pycache__
+    |       |   |   +---self_ask_with_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---structured_chat
+    |       |   |   |   \---__pycache__
+    |       |   |   +---tool_calling_agent
+    |       |   |   |   \---__pycache__
+    |       |   |   +---xml
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---callbacks
+    |       |   |   +---streamlit
+    |       |   |   |   \---__pycache__
+    |       |   |   +---tracers
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---chains
+    |       |   |   +---api
+    |       |   |   |   +---openapi
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---chat_vector_db
+    |       |   |   |   \---__pycache__
+    |       |   |   +---combine_documents
+    |       |   |   |   \---__pycache__
+    |       |   |   +---constitutional_ai
+    |       |   |   |   \---__pycache__
+    |       |   |   +---conversation
+    |       |   |   |   \---__pycache__
+    |       |   |   +---conversational_retrieval
+    |       |   |   |   \---__pycache__
+    |       |   |   +---elasticsearch_database
+    |       |   |   |   \---__pycache__
+    |       |   |   +---ernie_functions
+    |       |   |   |   \---__pycache__
+    |       |   |   +---flare
+    |       |   |   |   \---__pycache__
+    |       |   |   +---graph_qa
+    |       |   |   |   \---__pycache__
+    |       |   |   +---hyde
+    |       |   |   |   \---__pycache__
+    |       |   |   +---llm_bash
+    |       |   |   |   \---__pycache__
+    |       |   |   +---llm_checker
+    |       |   |   |   \---__pycache__
+    |       |   |   +---llm_math
+    |       |   |   |   \---__pycache__
+    |       |   |   +---llm_summarization_checker
+    |       |   |   |   +---prompts
+    |       |   |   |   \---__pycache__
+    |       |   |   +---llm_symbolic_math
+    |       |   |   |   \---__pycache__
+    |       |   |   +---natbot
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openai_functions
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openai_tools
+    |       |   |   |   \---__pycache__
+    |       |   |   +---qa_generation
+    |       |   |   |   \---__pycache__
+    |       |   |   +---qa_with_sources
+    |       |   |   |   \---__pycache__
+    |       |   |   +---query_constructor
+    |       |   |   |   \---__pycache__
+    |       |   |   +---question_answering
+    |       |   |   |   \---__pycache__
+    |       |   |   +---retrieval_qa
+    |       |   |   |   \---__pycache__
+    |       |   |   +---router
+    |       |   |   |   \---__pycache__
+    |       |   |   +---sql_database
+    |       |   |   |   \---__pycache__
+    |       |   |   +---structured_output
+    |       |   |   |   \---__pycache__
+    |       |   |   +---summarize
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---chat_loaders
+    |       |   |   \---__pycache__
+    |       |   +---chat_models
+    |       |   |   \---__pycache__
+    |       |   +---docstore
+    |       |   |   \---__pycache__
+    |       |   +---document_loaders
+    |       |   |   +---blob_loaders
+    |       |   |   |   \---__pycache__
+    |       |   |   +---parsers
+    |       |   |   |   +---html
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---language
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---document_transformers
+    |       |   |   +---xsl
+    |       |   |   \---__pycache__
+    |       |   +---embeddings
+    |       |   |   \---__pycache__
+    |       |   +---evaluation
+    |       |   |   +---agents
+    |       |   |   |   \---__pycache__
+    |       |   |   +---comparison
+    |       |   |   |   \---__pycache__
+    |       |   |   +---criteria
+    |       |   |   |   \---__pycache__
+    |       |   |   +---embedding_distance
+    |       |   |   |   \---__pycache__
+    |       |   |   +---exact_match
+    |       |   |   |   \---__pycache__
+    |       |   |   +---parsing
+    |       |   |   |   \---__pycache__
+    |       |   |   +---qa
+    |       |   |   |   \---__pycache__
+    |       |   |   +---regex_match
+    |       |   |   |   \---__pycache__
+    |       |   |   +---scoring
+    |       |   |   |   \---__pycache__
+    |       |   |   +---string_distance
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---graphs
+    |       |   |   \---__pycache__
+    |       |   +---indexes
+    |       |   |   +---prompts
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---llms
+    |       |   |   +---grammars
+    |       |   |   \---__pycache__
+    |       |   +---load
+    |       |   |   \---__pycache__
+    |       |   +---memory
+    |       |   |   +---chat_message_histories
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---output_parsers
+    |       |   |   \---__pycache__
+    |       |   +---prompts
+    |       |   |   +---example_selector
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---pydantic_v1
+    |       |   |   \---__pycache__
+    |       |   +---retrievers
+    |       |   |   +---document_compressors
+    |       |   |   |   \---__pycache__
+    |       |   |   +---self_query
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---runnables
+    |       |   |   \---__pycache__
+    |       |   +---schema
+    |       |   |   +---callbacks
+    |       |   |   |   +---tracers
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---runnable
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---smith
+    |       |   |   +---evaluation
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---storage
+    |       |   |   \---__pycache__
+    |       |   +---tools
+    |       |   |   +---ainetwork
+    |       |   |   |   \---__pycache__
+    |       |   |   +---amadeus
+    |       |   |   |   \---__pycache__
+    |       |   |   +---arxiv
+    |       |   |   |   \---__pycache__
+    |       |   |   +---azure_cognitive_services
+    |       |   |   |   \---__pycache__
+    |       |   |   +---bearly
+    |       |   |   |   \---__pycache__
+    |       |   |   +---bing_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---brave_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---clickup
+    |       |   |   |   \---__pycache__
+    |       |   |   +---dataforseo_api_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---ddg_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---e2b_data_analysis
+    |       |   |   |   \---__pycache__
+    |       |   |   +---edenai
+    |       |   |   |   \---__pycache__
+    |       |   |   +---eleven_labs
+    |       |   |   |   \---__pycache__
+    |       |   |   +---file_management
+    |       |   |   |   \---__pycache__
+    |       |   |   +---github
+    |       |   |   |   \---__pycache__
+    |       |   |   +---gitlab
+    |       |   |   |   \---__pycache__
+    |       |   |   +---gmail
+    |       |   |   |   \---__pycache__
+    |       |   |   +---golden_query
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_cloud
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_finance
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_jobs
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_lens
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_places
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_scholar
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_serper
+    |       |   |   |   \---__pycache__
+    |       |   |   +---google_trends
+    |       |   |   |   \---__pycache__
+    |       |   |   +---graphql
+    |       |   |   |   \---__pycache__
+    |       |   |   +---human
+    |       |   |   |   \---__pycache__
+    |       |   |   +---interaction
+    |       |   |   |   \---__pycache__
+    |       |   |   +---jira
+    |       |   |   |   \---__pycache__
+    |       |   |   +---json
+    |       |   |   |   \---__pycache__
+    |       |   |   +---memorize
+    |       |   |   |   \---__pycache__
+    |       |   |   +---merriam_webster
+    |       |   |   |   \---__pycache__
+    |       |   |   +---metaphor_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---multion
+    |       |   |   |   \---__pycache__
+    |       |   |   +---nasa
+    |       |   |   |   \---__pycache__
+    |       |   |   +---nuclia
+    |       |   |   |   \---__pycache__
+    |       |   |   +---office365
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openapi
+    |       |   |   |   +---utils
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---openweathermap
+    |       |   |   |   \---__pycache__
+    |       |   |   +---playwright
+    |       |   |   |   \---__pycache__
+    |       |   |   +---powerbi
+    |       |   |   |   \---__pycache__
+    |       |   |   +---pubmed
+    |       |   |   |   \---__pycache__
+    |       |   |   +---python
+    |       |   |   |   \---__pycache__
+    |       |   |   +---reddit_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---requests
+    |       |   |   |   \---__pycache__
+    |       |   |   +---scenexplain
+    |       |   |   |   \---__pycache__
+    |       |   |   +---searchapi
+    |       |   |   |   \---__pycache__
+    |       |   |   +---searx_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---shell
+    |       |   |   |   \---__pycache__
+    |       |   |   +---slack
+    |       |   |   |   \---__pycache__
+    |       |   |   +---sleep
+    |       |   |   |   \---__pycache__
+    |       |   |   +---spark_sql
+    |       |   |   |   \---__pycache__
+    |       |   |   +---sql_database
+    |       |   |   |   \---__pycache__
+    |       |   |   +---stackexchange
+    |       |   |   |   \---__pycache__
+    |       |   |   +---steam
+    |       |   |   |   \---__pycache__
+    |       |   |   +---steamship_image_generation
+    |       |   |   |   \---__pycache__
+    |       |   |   +---tavily_search
+    |       |   |   |   \---__pycache__
+    |       |   |   +---vectorstore
+    |       |   |   |   \---__pycache__
+    |       |   |   +---wikipedia
+    |       |   |   |   \---__pycache__
+    |       |   |   +---wolfram_alpha
+    |       |   |   |   \---__pycache__
+    |       |   |   +---youtube
+    |       |   |   |   \---__pycache__
+    |       |   |   +---zapier
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---utilities
+    |       |   |   \---__pycache__
+    |       |   +---utils
+    |       |   |   \---__pycache__
+    |       |   +---vectorstores
+    |       |   |   +---docarray
+    |       |   |   |   \---__pycache__
+    |       |   |   +---redis
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---_api
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---langchain-0.3.27.dist-info
+    |       |   \---licenses
+    |       +---langchain_core
+    |       |   +---beta
+    |       |   |   +---runnables
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---callbacks
+    |       |   |   \---__pycache__
+    |       |   +---documents
+    |       |   |   \---__pycache__
+    |       |   +---document_loaders
+    |       |   |   \---__pycache__
+    |       |   +---embeddings
+    |       |   |   \---__pycache__
+    |       |   +---example_selectors
+    |       |   |   \---__pycache__
+    |       |   +---indexing
+    |       |   |   \---__pycache__
+    |       |   +---language_models
+    |       |   |   \---__pycache__
+    |       |   +---load
+    |       |   |   \---__pycache__
+    |       |   +---messages
+    |       |   |   \---__pycache__
+    |       |   +---outputs
+    |       |   |   \---__pycache__
+    |       |   +---output_parsers
+    |       |   |   \---__pycache__
+    |       |   +---prompts
+    |       |   |   \---__pycache__
+    |       |   +---pydantic_v1
+    |       |   |   \---__pycache__
+    |       |   +---runnables
+    |       |   |   \---__pycache__
+    |       |   +---tools
+    |       |   |   \---__pycache__
+    |       |   +---tracers
+    |       |   |   \---__pycache__
+    |       |   +---utils
+    |       |   |   \---__pycache__
+    |       |   +---vectorstores
+    |       |   |   \---__pycache__
+    |       |   +---_api
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---langchain_core-0.3.76.dist-info
+    |       +---langchain_text_splitters
+    |       |   +---xsl
+    |       |   \---__pycache__
+    |       +---langchain_text_splitters-0.3.11.dist-info
+    |       +---langsmith
+    |       |   +---beta
+    |       |   |   \---__pycache__
+    |       |   +---cli
+    |       |   +---env
+    |       |   |   \---__pycache__
+    |       |   +---evaluation
+    |       |   |   +---integrations
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---integrations
+    |       |   |   \---otel
+    |       |   |       \---__pycache__
+    |       |   +---testing
+    |       |   |   \---__pycache__
+    |       |   +---wrappers
+    |       |   |   \---__pycache__
+    |       |   +---_internal
+    |       |   |   +---otel
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---langsmith-0.4.31.dist-info
+    |       +---orjson
+    |       |   \---__pycache__
+    |       +---orjson-3.11.3.dist-info
+    |       |   \---licenses
+    |       +---packaging
+    |       |   +---licenses
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---packaging-25.0.dist-info
+    |       |   \---licenses
+    |       +---pip
+    |       |   +---_internal
+    |       |   |   +---cli
+    |       |   |   |   \---__pycache__
+    |       |   |   +---commands
+    |       |   |   |   \---__pycache__
+    |       |   |   +---distributions
+    |       |   |   |   \---__pycache__
+    |       |   |   +---index
+    |       |   |   |   \---__pycache__
+    |       |   |   +---locations
+    |       |   |   |   \---__pycache__
+    |       |   |   +---metadata
+    |       |   |   |   +---importlib
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---models
+    |       |   |   |   \---__pycache__
+    |       |   |   +---network
+    |       |   |   |   \---__pycache__
+    |       |   |   +---operations
+    |       |   |   |   +---build
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---install
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---req
+    |       |   |   |   \---__pycache__
+    |       |   |   +---resolution
+    |       |   |   |   +---legacy
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---resolvelib
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---utils
+    |       |   |   |   \---__pycache__
+    |       |   |   +---vcs
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---_vendor
+    |       |   |   +---cachecontrol
+    |       |   |   |   +---caches
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---certifi
+    |       |   |   |   \---__pycache__
+    |       |   |   +---distlib
+    |       |   |   |   \---__pycache__
+    |       |   |   +---distro
+    |       |   |   |   \---__pycache__
+    |       |   |   +---idna
+    |       |   |   |   \---__pycache__
+    |       |   |   +---msgpack
+    |       |   |   |   \---__pycache__
+    |       |   |   +---packaging
+    |       |   |   |   \---__pycache__
+    |       |   |   +---pkg_resources
+    |       |   |   |   \---__pycache__
+    |       |   |   +---platformdirs
+    |       |   |   |   \---__pycache__
+    |       |   |   +---pygments
+    |       |   |   |   +---filters
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---formatters
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---lexers
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---styles
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---pyproject_hooks
+    |       |   |   |   +---_in_process
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---requests
+    |       |   |   |   \---__pycache__
+    |       |   |   +---resolvelib
+    |       |   |   |   +---compat
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   +---rich
+    |       |   |   |   \---__pycache__
+    |       |   |   +---tomli
+    |       |   |   |   \---__pycache__
+    |       |   |   +---truststore
+    |       |   |   |   \---__pycache__
+    |       |   |   +---urllib3
+    |       |   |   |   +---contrib
+    |       |   |   |   |   +---_securetransport
+    |       |   |   |   |   |   \---__pycache__
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---packages
+    |       |   |   |   |   +---backports
+    |       |   |   |   |   |   \---__pycache__
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   +---util
+    |       |   |   |   |   \---__pycache__
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---pip-24.3.1.dist-info
+    |       +---pydantic
+    |       |   +---deprecated
+    |       |   |   \---__pycache__
+    |       |   +---experimental
+    |       |   |   \---__pycache__
+    |       |   +---plugin
+    |       |   |   \---__pycache__
+    |       |   +---v1
+    |       |   |   \---__pycache__
+    |       |   +---_internal
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---pydantic-2.11.9.dist-info
+    |       |   \---licenses
+    |       +---pydantic_core
+    |       |   \---__pycache__
+    |       +---pydantic_core-2.33.2.dist-info
+    |       |   \---licenses
+    |       +---pyyaml-6.0.3.dist-info
+    |       |   \---licenses
+    |       +---requests
+    |       |   \---__pycache__
+    |       +---requests-2.32.5.dist-info
+    |       |   \---licenses
+    |       +---requests_toolbelt
+    |       |   +---adapters
+    |       |   |   \---__pycache__
+    |       |   +---auth
+    |       |   |   \---__pycache__
+    |       |   +---cookies
+    |       |   |   \---__pycache__
+    |       |   +---downloadutils
+    |       |   |   \---__pycache__
+    |       |   +---multipart
+    |       |   |   \---__pycache__
+    |       |   +---threaded
+    |       |   |   \---__pycache__
+    |       |   +---utils
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---requests_toolbelt-1.0.0.dist-info
+    |       +---sniffio
+    |       |   +---_tests
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---sniffio-1.3.1.dist-info
+    |       +---sqlalchemy
+    |       |   +---connectors
+    |       |   |   \---__pycache__
+    |       |   +---cyextension
+    |       |   |   \---__pycache__
+    |       |   +---dialects
+    |       |   |   +---mssql
+    |       |   |   |   \---__pycache__
+    |       |   |   +---mysql
+    |       |   |   |   \---__pycache__
+    |       |   |   +---oracle
+    |       |   |   |   \---__pycache__
+    |       |   |   +---postgresql
+    |       |   |   |   \---__pycache__
+    |       |   |   +---sqlite
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---engine
+    |       |   |   \---__pycache__
+    |       |   +---event
+    |       |   |   \---__pycache__
+    |       |   +---ext
+    |       |   |   +---asyncio
+    |       |   |   |   \---__pycache__
+    |       |   |   +---declarative
+    |       |   |   |   \---__pycache__
+    |       |   |   +---mypy
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---future
+    |       |   |   \---__pycache__
+    |       |   +---orm
+    |       |   |   \---__pycache__
+    |       |   +---pool
+    |       |   |   \---__pycache__
+    |       |   +---sql
+    |       |   |   \---__pycache__
+    |       |   +---testing
+    |       |   |   +---fixtures
+    |       |   |   |   \---__pycache__
+    |       |   |   +---plugin
+    |       |   |   |   \---__pycache__
+    |       |   |   +---suite
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---util
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---sqlalchemy-2.0.43.dist-info
+    |       |   \---licenses
+    |       +---tenacity
+    |       |   +---asyncio
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---tenacity-9.1.2.dist-info
+    |       |   \---licenses
+    |       +---typing_extensions-4.15.0.dist-info
+    |       |   \---licenses
+    |       +---typing_inspection
+    |       |   \---__pycache__
+    |       +---typing_inspection-0.4.1.dist-info
+    |       |   \---licenses
+    |       +---urllib3
+    |       |   +---contrib
+    |       |   |   +---emscripten
+    |       |   |   |   \---__pycache__
+    |       |   |   \---__pycache__
+    |       |   +---http2
+    |       |   |   \---__pycache__
+    |       |   +---util
+    |       |   |   \---__pycache__
+    |       |   \---__pycache__
+    |       +---urllib3-2.5.0.dist-info
+    |       |   \---licenses
+    |       +---yaml
+    |       |   \---__pycache__
+    |       +---zstandard
+    |       |   \---__pycache__
+    |       +---zstandard-0.25.0.dist-info
+    |       |   \---licenses
+    |       +---_yaml
+    |       |   \---__pycache__
+    |       \---__pycache__
+    \---Scripts

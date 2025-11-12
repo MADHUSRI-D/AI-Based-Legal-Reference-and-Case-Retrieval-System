@@ -1,0 +1,28 @@
+[
+    {
+        "file_name": "CrPC_1973.pdf",
+        "type": "pdf",
+        "num_pages": 263,
+        "title": "THE CODE OF CRIMINAL PROCEDURE, 1973",
+        "cleaned_text_path": "data\\processed\\cleaned\\CrPC_1973.txt"
+    },
+    {
+        "file_name": "EvidenceAct_1872.pdf",
+        "type": "pdf",
+        "num_pages": 61,
+        "title": "EvidenceAct_1872",
+        "cleaned_text_path": "data\\processed\\cleaned\\EvidenceAct_1872.txt"
+    },
+    {
+        "file_name": "IndicLegalQA_10k.json",
+        "type": "json",
+        "num_records": 10002
+    },
+    {
+        "file_name": "IPC_1860.pdf",
+        "type": "pdf",
+        "num_pages": 119,
+        "title": "IPC_1860",
+        "cleaned_text_path": "data\\processed\\cleaned\\IPC_1860.txt"
+    }
+]
